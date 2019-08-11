@@ -25,5 +25,6 @@ const maximumVolume = arrCoordinates => {
 }
 
 module.exports = {
-    maximumValueOutput
+    maximumValueOutput,
+    maximumVolume
 }
